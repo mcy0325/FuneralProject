@@ -1,2 +1,2 @@
-# FuneralProject
+# Project
 미정
